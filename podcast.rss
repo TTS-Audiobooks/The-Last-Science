@@ -9,6 +9,8 @@
     <title>The Last Science</title>
     <link>https://tts-audiobooks.github.io/The-Last-Science/podcast.rss</link>
     <description>Audiobook generated using state of the art text to speech with the authors permission.</description>
+    <itunes:summary>Audiobook generated using state of the art text to speech with the authors permission</itunes:summary>
+
     <atom:link href="https://tts-audiobooks.github.io/The-Last-Science/podcast.rss" rel="self" type="application/rss+xml"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
@@ -23,6 +25,12 @@
       <itunes:category text="Podcasting"/>
     </itunes:category>
     <googleplay:owner>tabor473@gmail.com</googleplay:owner>
+    <itunes:explicit>yes</itunes:explicit>
+    <itunes:owner>
+      <itunes:name>Griffin Tabor</itunes:name>
+      <itunes:email>tabor473@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:author>Griffin Tabor</itunes:author>
 
     <item>
       <title>Chapter 2 — Rachel DuValle.mp3</title>
@@ -39,6 +47,10 @@
       <enclosure url="https://github.com/TTS-Audiobooks/The-Last-Science/raw/main/audio-files/Chapter%202%20%E2%80%94%20Rachel%20DuValle.mp3" length="9674393" type="audio/mpeg"/>
       <pubDate>Sat, 17 Dec 2022 01:56:13 +0000</pubDate>
       <itunes:duration>2418</itunes:duration>
+      <itunes:author>Griffin Tabor</itunes:author>
+      <itunes:subtitle>stuff</itunes:subtitle>
+      <itunes:summary>stuff</itunes:summary>
+
     </item>
     <item>
       <title>Chapter 1 — The Last Train to Rallsburg.mp3</title>
