@@ -1,5 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+<rss version="2.0"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0">
   <channel>
     <title>The Last Science</title>
     <link>https://tts-audiobooks.github.io/The-Last-Science/podcast.rss</link>
@@ -17,6 +22,8 @@
     <itunes:category text="Technology">
       <itunes:category text="Podcasting"/>
     </itunes:category>
+    <googleplay:owner>tabor473@gmail.com</googleplay:owner>
+
     <item>
       <title>Chapter 2 — Rachel DuValle.mp3</title>
      <description><![CDATA[
